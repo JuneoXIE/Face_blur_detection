@@ -223,7 +223,7 @@ A_h=\frac{1}{7}[\frac{8}{M(N-1)}\sum_{i=1}^{M}\sum_{j=1}^{N-1}{|d_h(i,j)|-B_h}]
 $$
 Then compute the zero-crossing (ZC) rate. Zero-crossing means that the product of dh values of adjacent pixels is negative.
 $$
-{z_h} = \left\{ {\begin{array}{*{20}{c}}
+{z_h} = \left{ {\begin{array}{*{20}{c}}
 1,horizontal\ ZC\ at\ d_h(m,n)\\
 0,otherwise
 \end{array}} \right.
