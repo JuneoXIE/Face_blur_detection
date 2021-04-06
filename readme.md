@@ -254,5 +254,5 @@ $$
 ## 
 
 ## References
-[1] Wang Z, Sheikh H R, Bovik A C. No-reference perceptual quality assessment of JPEG compressed images[C]//Proceedings. International Conference on Image Processing. IEEE, 2002, 1: I-I.//
+[1] Wang Z, Sheikh H R, Bovik A C. No-reference perceptual quality assessment of JPEG compressed images[C]//Proceedings. International Conference on Image Processing. IEEE, 2002, 1: I-I.  
 [2] Horita Y, Arata S, Murai T. No-reference image quality assessment for JPEG/JPEG2000 coding[C]//2004 12th European Signal Processing Conference. IEEE, 2004: 1301-1304.
