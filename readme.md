@@ -207,7 +207,7 @@ def Entropy(img):
 
 
 
-## 10.  JPEG: No-Reference Perceptual Quality Assessment of JPEG Compressed Images
+## 10.  JPEG: No-Reference Perceptual Quality Assessment of JPEG Compressed Images[1]
 
 Use f (x, y) to represent a picture, the size of the picture is MxN, calculate the signal across each horizontal line:
 $$
@@ -243,7 +243,7 @@ $$
 $$
 
 
-## 11. JPEG2：No-Reference Image Quality Assessment  for JPEG/JPEG2000 Coding
+## 11. JPEG2：No-Reference Image Quality Assessment  for JPEG/JPEG2000 Coding[2]
 
 Based on 10, the authors redefined the image quality function:
 $$
@@ -253,3 +253,6 @@ $$
 
 ## 
 
+## References
+[1] Wang Z, Sheikh H R, Bovik A C. No-reference perceptual quality assessment of JPEG compressed images[C]//Proceedings. International Conference on Image Processing. IEEE, 2002, 1: I-I.
+[2] Horita Y, Arata S, Murai T. No-reference image quality assessment for JPEG/JPEG2000 coding[C]//2004 12th European Signal Processing Conference. IEEE, 2004: 1301-1304.
